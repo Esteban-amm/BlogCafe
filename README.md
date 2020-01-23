@@ -1,2 +1,3 @@
 # BlogCafe
-Blog de Cafe, Responsive Mobile-first
+Blog de Cafe
+Responsive Mobile-first
